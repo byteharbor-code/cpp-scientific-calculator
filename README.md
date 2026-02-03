@@ -1,4 +1,4 @@
-# C++ CLI Scientific Calculator
+# C++ CLI Calculator
 
 A command-line scientific calculator built in C++ that evaluates mathematical and scientific expressions directly from the terminal.
 
@@ -31,9 +31,3 @@ This project focuses on clean logic, correct operator handling, and implementing
 ```bash
 g++ calculator.cpp -o calculator
 ./calculator
-
-Input:  sqrt(25) + log(100)
-Output: 7 
-
-Input:  sin(30) + cos(60)
-Output: 1
